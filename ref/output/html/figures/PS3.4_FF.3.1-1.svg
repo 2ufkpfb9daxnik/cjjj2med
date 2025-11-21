@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="502.001px" height="57px" viewBox="0 0 502.001 57" enable-background="new 0 0 502.001 57" xml:space="preserve">
+
+<defs>
+	<style type="text/css">
+	text {
+	  font-family: Helvetica, Verdana, ArialUnicodeMS, san-serif
+	}
+	</style>
+</defs>
+
+<g>
+   <desc>
+	PS 3.4 Service Class Specifications
+   </desc>
+</g>
+
+<g>
+	<rect x="1" y="1" fill="#F5EED6" width="500.001" height="55"/>
+	<g>
+		<g>
+			<g>
+				<line fill="none" stroke="#005695" stroke-width="2" stroke-miterlimit="1" x1="148.152" y1="28.5" x2="165.065" y2="28.5"/>
+				<g>
+					<polygon fill="#005695" points="163.479,30.824 172.152,28.5 163.479,26.176 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<line fill="none" stroke="#005695" stroke-width="2" stroke-miterlimit="1" x1="206.287" y1="28.5" x2="217.2" y2="28.5"/>
+				<g>
+					<polygon fill="#005695" points="215.614,30.824 224.287,28.5 215.614,26.176 					"/>
+				</g>
+			</g>
+		</g>
+		
+			<rect x="172.258" y="17.5" fill="#CCDEF0" stroke="#010101" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" width="34" height="22"/>
+		<g>
+			<text transform="matrix(1 0 0 1 175.0869 27.4233)"><tspan x="0" y="0" font-size="6">Volumetric</tspan><tspan x="0.328" y="5.491" font-size="6">Rendering</tspan></text>
+		</g>
+		<g>
+			<g>
+				<line fill="none" stroke="#005695" stroke-width="2" stroke-miterlimit="1" x1="268.177" y1="28.5" x2="279.089" y2="28.5"/>
+				<g>
+					<polygon fill="#005695" points="277.504,30.824 286.177,28.5 277.504,26.176 					"/>
+				</g>
+			</g>
+		</g>
+		
+			<rect x="224.258" y="17.5" fill="#CCDEF0" stroke="#010101" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" width="44" height="22"/>
+		<g>
+			<text transform="matrix(1 0 0 1 226.7461 27.4233)"><tspan x="0" y="0" font-size="6">Volume Space</tspan><tspan x="5.167" y="5.491" font-size="6">Annotation</tspan></text>
+		</g>
+		<g>
+			<g>
+				<line fill="none" stroke="#005695" stroke-width="2" stroke-miterlimit="1" x1="330.096" y1="28.5" x2="347.008" y2="28.5"/>
+				<g>
+					<polygon fill="#005695" points="345.423,30.824 354.096,28.5 345.423,26.176 					"/>
+				</g>
+			</g>
+		</g>
+		
+			<rect x="286.177" y="17.5" fill="#CCDEF0" stroke="#010101" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" width="44" height="22"/>
+		<g>
+			<text transform="matrix(1 0 0 1 289 27.4233)"><tspan x="0" y="0" font-size="6">Display Space</tspan><tspan x="4.832" y="5.491" font-size="6">Annotation</tspan></text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 356.3848 30.168)" font-size="6">Display</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 125.9424 27.4233)"><tspan x="0" y="0" font-size="6">Volume</tspan><tspan x="3.835" y="5.491" font-size="6">Data</tspan></text>
+		</g>
+	</g>
+</g>
+</svg>

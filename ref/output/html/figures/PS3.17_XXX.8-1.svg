@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 702 342" enable-background="new 0 0 702 342" xml:space="preserve">
+   <defs>
+	<style type="text/css">
+	text {
+	  font-family: Helvetica, Verdana, ArialUnicodeMS, san-serif
+	}
+	</style>
+</defs>
+
+<g>
+   <desc>
+	PS 3.17 : Explanatory Information
+   </desc>
+</g>
+
+  <defs>
+    <linearGradient id="linear-gradient" x1="240.658" y1="263.594" x2="237.144" y2="258.575" gradientUnits="userSpaceOnUse">
+      <stop offset=".038" stop-color="#58595b"/>
+      <stop offset=".454" stop-color="#fff"/>
+      <stop offset="1" stop-color="#333"/>
+    </linearGradient>
+  </defs>
+
+  <g>
+    <g id="Layer_1">
+      <g>
+        <rect x="1" y="1" width="700" height="340" fill="#f3edd6"/>
+        <g>
+          <g>
+            <polygon points="402.145 28.879 402.145 124.096 281.038 213.831 281.038 118.614 402.145 28.879" fill="#d2dce5"/>
+            <g>
+              <polyline points="400.539 30.07 402.145 28.879 402.145 30.879" fill="none" stroke="#808285" stroke-linejoin="bevel"/>
+              <line x1="402.145" y1="33.79" x2="402.145" y2="120.641" fill="none" stroke="#808285" stroke-dasharray="3.882 2.911" stroke-linejoin="bevel"/>
+              <polyline points="402.145 122.096 402.145 124.096 400.538 125.287" fill="none" stroke="#808285" stroke-linejoin="bevel"/>
+              <line x1="398.181" y1="127.034" x2="283.823" y2="211.766" fill="none" stroke="#808285" stroke-dasharray="3.913 2.935" stroke-linejoin="bevel"/>
+              <polyline points="282.645 212.64 281.038 213.831 281.038 211.831" fill="none" stroke="#808285" stroke-linejoin="bevel"/>
+              <line x1="281.038" y1="208.919" x2="281.038" y2="122.069" fill="none" stroke="#808285" stroke-dasharray="3.882 2.911" stroke-linejoin="bevel"/>
+              <polyline points="281.038 120.614 281.038 118.614 282.645 117.423" fill="none" stroke="#808285" stroke-linejoin="bevel"/>
+              <line x1="285.002" y1="115.676" x2="399.36" y2="30.943" fill="none" stroke="#808285" stroke-dasharray="3.913 2.935" stroke-linejoin="bevel"/>
+            </g>
+          </g>
+          <g>
+            <polygon points="479.77 194.467 402.145 124.096 281.038 213.831 358.662 284.204 479.77 194.467" fill="#d2dce5"/>
+            <g>
+              <polyline points="478.164 195.658 479.77 194.467 478.289 193.124" fill="none" stroke="#808285" stroke-linejoin="bevel"/>
+              <line x1="476.071" y1="191.114" x2="404.736" y2="126.445" fill="none" stroke="#808285" stroke-dasharray="3.991 2.993" stroke-linejoin="bevel"/>
+              <polyline points="403.627 125.439 402.145 124.096 400.538 125.287" fill="none" stroke="#808285" stroke-linejoin="bevel"/>
+              <line x1="398.181" y1="127.034" x2="283.823" y2="211.766" fill="none" stroke="#808285" stroke-dasharray="3.913 2.935" stroke-linejoin="bevel"/>
+              <polyline points="282.645 212.64 281.038 213.831 282.519 215.174" fill="none" stroke="#808285" stroke-linejoin="bevel"/>
+              <line x1="284.737" y1="217.184" x2="356.072" y2="281.855" fill="none" stroke="#808285" stroke-dasharray="3.991 2.993" stroke-linejoin="bevel"/>
+              <polyline points="357.18 282.86 358.662 284.204 360.269 283.013" fill="none" stroke="#808285" stroke-linejoin="bevel"/>
+              <line x1="362.627" y1="281.266" x2="476.985" y2="196.532" fill="none" stroke="#808285" stroke-dasharray="3.913 2.935" stroke-linejoin="bevel"/>
+            </g>
+          </g>
+          <g>
+            <polygon points="479.77 194.467 402.145 124.096 402.145 28.879 479.77 99.25 479.77 194.467" fill="#d2dce5"/>
+            <g>
+              <polyline points="479.77 192.467 479.77 194.467 478.289 193.124" fill="none" stroke="#808285" stroke-linejoin="bevel"/>
+              <line x1="476.071" y1="191.114" x2="404.736" y2="126.445" fill="none" stroke="#808285" stroke-dasharray="3.991 2.993" stroke-linejoin="bevel"/>
+              <polyline points="403.627 125.439 402.145 124.096 402.145 122.096" fill="none" stroke="#808285" stroke-linejoin="bevel"/>
+              <line x1="402.145" y1="119.185" x2="402.145" y2="32.334" fill="none" stroke="#808285" stroke-dasharray="3.882 2.911" stroke-linejoin="bevel"/>
+              <polyline points="402.145 30.879 402.145 28.879 403.627 30.222" fill="none" stroke="#808285" stroke-linejoin="bevel"/>
+              <line x1="405.845" y1="32.233" x2="477.18" y2="96.902" fill="none" stroke="#808285" stroke-dasharray="3.991 2.993" stroke-linejoin="bevel"/>
+              <polyline points="478.289 97.907 479.77 99.25 479.77 101.25" fill="none" stroke="#808285" stroke-linejoin="bevel"/>
+              <line x1="479.77" y1="104.162" x2="479.77" y2="191.012" fill="none" stroke="#808285" stroke-dasharray="3.882 2.911" stroke-linejoin="bevel"/>
+            </g>
+          </g>
+          <polygon points="358.662 284.204 281.038 213.831 281.038 118.614 358.662 188.985 358.662 284.204" fill="none" stroke="#000" stroke-linejoin="bevel"/>
+          <g>
+            <path d="M446.513,111.664c0,3.068-2.487,5.555-5.555,5.555s-5.555-2.487-5.555-5.555,2.486-5.554,5.555-5.554,5.555,2.487,5.555,5.554Z" fill="#636466"/>
+            <line x1="436.61" y1="108.212" x2="444.855" y2="115.644" fill="none" stroke="#fff" stroke-width=".75"/>
+            <line x1="441.051" y1="106.179" x2="441.051" y2="117.219" fill="none" stroke="#fff" stroke-width=".75"/>
+            <path d="M446.513,111.664c0,3.068-2.487,5.555-5.555,5.555s-5.555-2.487-5.555-5.555,2.486-5.554,5.555-5.554,5.555,2.487,5.555,5.554Z" fill="none" stroke="#000" stroke-linejoin="bevel"/>
+          </g>
+          <polygon points="479.77 194.467 479.77 99.25 358.662 188.985 358.662 284.204 479.77 194.467" fill="none" stroke="#000" stroke-linejoin="bevel"/>
+          <polygon points="479.77 99.25 402.145 28.879 281.038 118.614 358.662 188.985 479.77 99.25" fill="none" stroke="#000" stroke-linejoin="bevel"/>
+          <line x1="440.995" y1="111.853" x2="225.499" y2="271.254" fill="none" stroke="#00aeef" stroke-dasharray="5 2 2 2" stroke-width=".75"/>
+          <line x1="477.372" y1="84.945" x2="445.916" y2="108.212" fill="none" stroke="#00aeef" stroke-dasharray="5 2 2 2" stroke-width=".75"/>
+          <line x1="497.514" y1="70.046" x2="477.372" y2="84.945" fill="none" stroke="#00aeef" stroke-dasharray="4 2 1 2" stroke-width=".75"/>
+          <line x1="315.86" y1="198.014" x2="323.654" y2="205.04" fill="none" stroke="#231f20" stroke-width=".75"/>
+          <line x1="319.85" y1="195.575" x2="319.85" y2="208.536" fill="none" stroke="#231f20" stroke-width=".75"/>
+          <text transform="translate(199.136 219.955)" fill="#231f20" font-size="10"><tspan x="0" y="0">viewpointup</tspan></text>
+          <text transform="translate(121.431 267.61)" fill="#231f20" font-size="10"><tspan x="0" y="0">viewpointposition</tspan></text>
+          <text transform="translate(159.954 320.787)" fill="#231f20" font-size="10"><tspan x="0" y="0">Viewpoint Coordinate System</tspan></text>
+          <text transform="translate(404.37 24.521)" fill="#231f20"><tspan x="0" y="0" font-size="10">T</tspan><tspan x="6.108" y="3" font-size="8">xyz</tspan><tspan x="18.108" y="0" xml:space="preserve" font-size="10"> MPR Top Left Corner (0070,1505)</tspan></text>
+          <text transform="translate(484.387 113.864)" fill="#231f20"><tspan x="0" y="0" font-size="10">V</tspan><tspan x="6.67" y="3" font-size="8">xyz</tspan><tspan x="18.67" y="0" xml:space="preserve" font-size="10"> viewpointlookat </tspan></text>
+          <circle cx="402.238" cy="29.27" r="2.5" fill="#231f20"/>
+          <polygon points="241.364 285.518 232.361 292.247 213.55 275.233 222.387 268.54 241.364 285.518" fill="none" stroke="#231f20" stroke-linejoin="round"/>
+          <text transform="translate(196.808 305.339) rotate(-.109)" fill="#00aeef" font-size="12"><tspan x="0" y="0">+Z</tspan></text>
+          <text transform="translate(228.875 236.277) rotate(-.109)" fill="#0db14b" font-size="12"><tspan x="0" y="0">+Y</tspan></text>
+          <text transform="translate(257.64 300.89) rotate(-.109)" fill="#ed1c24" font-size="12"><tspan x="0" y="0">+X</tspan></text>
+          <polygon points="213.651 275.021 232.461 292.035 232.461 274.167 213.651 257.153 213.651 275.021" fill="#dcddde" opacity=".6" stroke="#231f20" stroke-linejoin="round"/>
+          <polygon points="241.464 285.306 232.461 292.035 232.461 274.167 241.464 267.438 241.464 285.306" fill="#dcddde" opacity=".6" stroke="#231f20" stroke-linejoin="round"/>
+          <path d="M234.014,260.984l3.939-2.944-.237.143c1.144-.918,2.799-.922,3.913.063,1.248,1.104,1.345,3.035.215,4.312-.052.058-.104.113-.159.166l.002.002-3.12,2.333-4.553-4.074Z" fill="url(#linear-gradient)" opacity=".8" stroke="#231f20" stroke-linejoin="round"/>
+          <g>
+            <line x1="225.542" y1="271.166" x2="250.761" y2="294.527" fill="none" stroke="#ed1c24" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.764"/>
+            <polygon points="247.133 295.358 257.64 300.899 251.312 290.846 247.133 295.358" fill="#ed1c24"/>
+          </g>
+          <g>
+            <line x1="225.499" y1="271.254" x2="198.665" y2="292.791" fill="none" stroke="#00aeef" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            <polygon points="198.337 288.584 190.374 299.446 202.702 294.022 198.337 288.584" fill="#00aeef"/>
+          </g>
+          <g>
+            <line x1="225.287" y1="271.454" x2="225.287" y2="237.327" fill="none" stroke="#0db14b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            <polygon points="228.773 239.705 225.287 226.696 221.8 239.705 228.773 239.705" fill="#0db14b"/>
+          </g>
+          <g>
+            <path d="M230.197,270.897c0-2.762-2.239-5-5-5v5h5Z" fill="#231f20" stroke="#231f20" stroke-miterlimit="1"/>
+            <path d="M225.197,265.897c-2.761,0-5,2.238-5,5h5v-5Z" fill="#fff" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+            <path d="M220.197,270.897c0,2.76,2.239,5,5,5v-5h-5Z" fill="#231f20" stroke="#231f20" stroke-miterlimit="1"/>
+            <path d="M225.197,270.897v5c2.761,0,5-2.24,5-5h-5Z" fill="#fff" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+          </g>
+          <polygon points="241.464 267.438 232.461 274.167 213.651 257.153 222.488 250.459 241.464 267.438" fill="#dcddde" opacity=".6" stroke="#231f20" stroke-linejoin="round"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

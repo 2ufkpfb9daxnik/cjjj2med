@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 702 102" enable-background="new 0 0 702 102" xml:space="preserve">
+
+<defs>
+	<style type="text/css">
+	text {
+	  font-family: Helvetica, Verdana, ArialUnicodeMS, san-serif
+	}
+	</style>
+</defs>
+
+<g>
+   <desc>
+	PS 3.17 : Explanatory Information
+   </desc>
+</g>
+
+  <g>
+    <g id="Layer_1">
+      <g>
+        <rect x="1" y="1" width="700" height="100" fill="#f3edd6"/>
+        <g>
+          <g>
+            <rect x="288.774" y="26.694" width="45" height="45.004" fill="#b2cee7" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+            <polygon points="333.774 71.698 344.089 62.699 344.089 17.697 333.774 26.694 333.774 71.698" fill="#004073" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+            <polygon points="343.854 17.653 298.854 17.653 288.774 26.694 333.774 26.694 343.854 17.653" fill="#6799c8" stroke="#231f20" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+          </g>
+          <g>
+            <text transform="translate(385.764 51.508) rotate(-.109)" fill="#00aeef" font-size="12"><tspan x="0" y="0">+Z</tspan></text>
+            <text transform="translate(363.484 38.127) rotate(-.109)" fill="#0db14b" font-size="12"><tspan x="0" y="0">+Y</tspan></text>
+            <text transform="translate(398.207 84.392) rotate(-.109)" fill="#ed1c24" font-size="12"><tspan x="0" y="0">+X</tspan></text>
+            <g>
+              <line x1="360.108" y1="72.226" x2="379.732" y2="55.261" fill="none" stroke="#00aeef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+              <polygon points="380.093 58.405 385.764 50.046 376.673 54.449 380.093 58.405" fill="#00aeef"/>
+            </g>
+            <g>
+              <line x1="359.895" y1="72.425" x2="359.895" y2="38.299" fill="none" stroke="#0db14b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+              <polygon points="363.382 40.677 359.895 27.668 356.409 40.677 363.382 40.677" fill="#0db14b"/>
+            </g>
+            <g>
+              <line x1="360.151" y1="72.138" x2="395.358" y2="72.138" fill="none" stroke="#ed1c24" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.764"/>
+              <polygon points="393.261 75.213 404.735 72.138 393.261 69.063 393.261 75.213" fill="#ed1c24"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

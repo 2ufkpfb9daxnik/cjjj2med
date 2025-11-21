@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 702 162" enable-background="new 0 0 702 162" xml:space="preserve">
+
+<defs>
+	<style type="text/css">
+	text {
+	  font-family: Helvetica, Verdana, ArialUnicodeMS, san-serif
+	}
+	</style>
+</defs>
+
+<g>
+   <desc>
+	PS 3.17 : Explanatory Information
+   </desc>
+</g>
+
+  <g>
+    <g id="Layer_1">
+      <g>
+        <rect x="1" y="1" width="700" height="160" fill="#f3edd6"/>
+        <g>
+          <g>
+            <rect x="351.678" y="25.807" width="45" height="45.004" fill="#b2cee7" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+            <polygon points="396.678 70.811 406.994 61.813 406.994 16.811 396.678 25.807 396.678 70.811" fill="#004073" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+            <polygon points="406.758 16.766 361.758 16.766 351.678 25.807 396.678 25.807 406.758 16.766" fill="#6799c8" stroke="#231f20" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+            <text transform="translate(413.32 71.996)" fill="#231f20" font-size="12"><tspan x="0" y="0">t5</tspan></text>
+          </g>
+          <g>
+            <rect x="327.343" y="48.902" width="45" height="45.004" fill="#b2cee7" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+            <polygon points="372.343 93.905 382.658 84.907 382.658 39.905 372.343 48.902 372.343 93.905" fill="#004073" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+            <polygon points="382.423 39.861 337.423 39.861 327.343 48.902 372.343 48.902 382.423 39.861" fill="#6799c8" stroke="#231f20" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+            <text transform="translate(388.985 95.09)" fill="#231f20" font-size="12"><tspan x="0" y="0">t4</tspan></text>
+          </g>
+          <g>
+            <rect x="303.008" y="71.996" width="45" height="45.004" fill="#b2cee7" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+            <polygon points="348.008 117 358.323 108.001 358.323 62.999 348.008 71.996 348.008 117" fill="#004073" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+            <polygon points="358.088 62.955 313.088 62.955 303.008 71.996 348.008 71.996 358.088 62.955" fill="#6799c8" stroke="#231f20" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+            <text transform="translate(364.65 118.185)" fill="#231f20" font-size="12"><tspan x="0" y="0">t3</tspan></text>
+          </g>
+          <g>
+            <rect x="278.673" y="95.09" width="45" height="45.004" fill="#b2cee7" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+            <polygon points="323.673 140.094 333.988 131.096 333.988 86.094 323.673 95.09 323.673 140.094" fill="#004073" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+            <polygon points="333.753 86.049 288.753 86.049 278.673 95.09 323.673 95.09 333.753 86.049" fill="#6799c8" stroke="#231f20" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+            <text transform="translate(340.314 141.279)" fill="#231f20" font-size="12"><tspan x="0" y="0">t2</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

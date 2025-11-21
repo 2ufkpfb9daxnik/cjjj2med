@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 502 752" enable-background="new 0 0 502 752" xml:space="preserve">
+    
+<defs>
+	<style type="text/css">
+	text {
+	  font-family: Helvetica, Verdana, ArialUnicodeMS, san-serif
+	}
+	</style>
+</defs>
+
+<g>
+   <desc>
+	PS 3.3 : Information Object Definitions
+   </desc>
+</g>
+  
+  <rect x="1" y="1" width="500" height="750" fill="#f5eed6"/>
+  <g>
+    <rect x="16.914" y="610.519" width="128.777" height="18" fill="#9ab6d3" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+    <rect x="175.129" y="394.152" width="83.994" height="17.998" fill="#9ab6d3" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+    <rect x="175.129" y="430.16" width="83.994" height="18" fill="#9ab6d3" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+    <rect x="175.129" y="466.16" width="83.994" height="18" fill="#9ab6d3" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+    <rect x="16.912" y="394.151" width="128.779" height="18" fill="#9ab6d3" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+    <rect x="16.912" y="430.16" width="128.779" height="18" fill="#9ab6d3" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+    <rect x="16.914" y="466.16" width="128.777" height="18" fill="#9ab6d3" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+    <rect x="16.914" y="501.475" width="128.777" height="18" fill="#9ab6d3" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+    <rect x="16.912" y="358.88" width="128.779" height="18.001" fill="#9ab6d3" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+    <text transform="translate(174.328 355.924)" fill="#231f20" font-size="9"><tspan x="0" y="0">0-n</tspan></text>
+    <text transform="translate(174.328 391.659)" fill="#231f20" font-size="9"><tspan x="0" y="0">0-n</tspan></text>
+    <text transform="translate(174.328 427.393)" fill="#231f20" font-size="9"><tspan x="0" y="0">0-n</tspan></text>
+    <text transform="translate(174.328 463.128)" fill="#231f20" font-size="9"><tspan x="0" y="0">0-n</tspan></text>
+    <rect x="175.129" y="501.475" width="83.994" height="18" fill="#9ab6d3" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+    <text transform="translate(174.328 498.442)" fill="#231f20" font-size="9"><tspan x="0" y="0">0-n</tspan></text>
+    <text transform="translate(132.388 355.924)" fill="#231f20" font-size="9"><tspan x="0" y="0">0-n</tspan></text>
+    <text transform="translate(132.388 391.659)" fill="#231f20" font-size="9"><tspan x="0" y="0">0-n</tspan></text>
+    <text transform="translate(132.388 427.393)" fill="#231f20" font-size="9"><tspan x="0" y="0">0-n</tspan></text>
+    <text transform="translate(132.388 463.128)" fill="#231f20" font-size="9"><tspan x="0" y="0">0-n</tspan></text>
+    <text transform="translate(132.388 498.442)" fill="#231f20" font-size="9"><tspan x="0" y="0">0-n</tspan></text>
+    <rect x="16.914" y="536.789" width="128.777" height="18" fill="#9ab6d3" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+    <text transform="translate(132.388 533.757)" fill="#231f20" font-size="9"><tspan x="0" y="0">0-n</tspan></text>
+    <rect x="16.914" y="573.449" width="128.777" height="18" fill="#9ab6d3" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+    <text transform="translate(132.388 570.821)" fill="#231f20" font-size="9"><tspan x="0" y="0">0-n</tspan></text>
+    <rect x="175.129" y="536.789" width="83.994" height="18" fill="#9ab6d3" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+    <text transform="translate(174.328 533.757)" fill="#231f20" font-size="9"><tspan x="0" y="0">0-n</tspan></text>
+    <rect x="175.129" y="573.449" width="83.994" height="18" fill="#9ab6d3" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+    <text transform="translate(174.328 570.417)" fill="#231f20" font-size="9"><tspan x="0" y="0">0-n</tspan></text>
+    <rect x="175.129" y="358.88" width="83.994" height="18.001" fill="#9ab6d3" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+    <rect x="16.912" y="323.788" width="128.779" height="18.001" fill="#9ab6d3" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+    <text transform="translate(174.328 320.833)" fill="#231f20" font-size="9"><tspan x="0" y="0">0-n</tspan></text>
+    <text transform="translate(132.388 320.833)" fill="#231f20" font-size="9"><tspan x="0" y="0">0-n</tspan></text>
+    <rect x="175.129" y="323.788" width="83.994" height="18.001" fill="#9ab6d3" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+    <text transform="translate(132.388 607.897)" fill="#231f20" font-size="9"><tspan x="0" y="0">0-n</tspan></text>
+    <rect x="16.914" y="647.584" width="128.777" height="18" fill="#9ab6d3" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+    <text transform="translate(132.388 607.892)" fill="#231f20" font-size="9"><tspan x="0" y="0">0-n</tspan></text>
+    <rect x="175.129" y="610.519" width="83.994" height="18" fill="#9ab6d3" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+    <text transform="translate(174.328 607.488)" fill="#231f20" font-size="9"><tspan x="0" y="0">0-n</tspan></text>
+    <text transform="translate(132.388 644.968)" fill="#231f20" font-size="9"><tspan x="0" y="0">0-n</tspan></text>
+    <rect x="16.914" y="684.654" width="128.777" height="18" fill="#9ab6d3" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+    <g>
+      <polyline points="152.817 402.559 160.148 402.559 160.148 367.949" fill="none" stroke="#236092" stroke-miterlimit="1" stroke-width="2"/>
+      <polygon points="154.402 404.883 145.729 402.559 154.402 400.234 154.402 404.883" fill="#236092"/>
+    </g>
+    <g>
+      <polyline points="168.183 402.559 160.123 402.559 160.123 367.949" fill="none" stroke="#236092" stroke-miterlimit="1" stroke-width="2"/>
+      <polygon points="166.597 400.234 175.27 402.559 166.597 404.883 166.597 400.234" fill="#236092"/>
+    </g>
+    <g>
+      <polyline points="152.817 367.898 160.148 367.898 160.148 333.289" fill="none" stroke="#236092" stroke-miterlimit="1" stroke-width="2"/>
+      <polygon points="154.402 370.223 145.729 367.898 154.402 365.574 154.402 370.223" fill="#236092"/>
+    </g>
+    <g>
+      <polyline points="168.183 367.898 160.123 367.898 160.123 333.289" fill="none" stroke="#236092" stroke-miterlimit="1" stroke-width="2"/>
+      <polygon points="166.597 365.574 175.27 367.898 166.597 370.223 166.597 365.574" fill="#236092"/>
+    </g>
+    <g>
+      <polyline points="152.817 438.549 160.148 438.549 160.148 402.482" fill="none" stroke="#236092" stroke-miterlimit="1" stroke-width="2"/>
+      <polygon points="154.402 440.873 145.729 438.549 154.402 436.225 154.402 440.873" fill="#236092"/>
+    </g>
+    <g>
+      <polyline points="168.183 438.549 160.123 438.549 160.123 402.482" fill="none" stroke="#236092" stroke-miterlimit="1" stroke-width="2"/>
+      <polygon points="166.597 436.225 175.27 438.549 166.597 440.873 166.597 436.225" fill="#236092"/>
+    </g>
+    <g>
+      <polyline points="152.817 474.559 160.148 474.559 160.148 438.492" fill="none" stroke="#236092" stroke-miterlimit="1" stroke-width="2"/>
+      <polygon points="154.402 476.883 145.729 474.559 154.402 472.234 154.402 476.883" fill="#236092"/>
+    </g>
+    <g>
+      <polyline points="168.183 474.559 160.123 474.559 160.123 438.492" fill="none" stroke="#236092" stroke-miterlimit="1" stroke-width="2"/>
+      <polygon points="166.597 472.234 175.27 474.559 166.597 476.883 166.597 472.234" fill="#236092"/>
+    </g>
+    <g>
+      <polyline points="152.817 510.568 160.148 510.568 160.148 474.502" fill="none" stroke="#236092" stroke-miterlimit="1" stroke-width="2"/>
+      <polygon points="154.402 512.893 145.729 510.568 154.402 508.244 154.402 512.893" fill="#236092"/>
+    </g>
+    <g>
+      <polyline points="168.183 510.568 160.123 510.568 160.123 474.502" fill="none" stroke="#236092" stroke-miterlimit="1" stroke-width="2"/>
+      <polygon points="166.597 508.244 175.27 510.568 166.597 512.893 166.597 508.244" fill="#236092"/>
+    </g>
+    <g>
+      <polyline points="152.817 546.578 160.148 546.578 160.148 510.512" fill="none" stroke="#236092" stroke-miterlimit="1" stroke-width="2"/>
+      <polygon points="154.402 548.902 145.729 546.578 154.402 544.254 154.402 548.902" fill="#236092"/>
+    </g>
+    <g>
+      <polyline points="168.183 546.578 160.123 546.578 160.123 510.512" fill="none" stroke="#236092" stroke-miterlimit="1" stroke-width="2"/>
+      <polygon points="166.597 544.254 175.27 546.578 166.597 548.902 166.597 544.254" fill="#236092"/>
+    </g>
+    <g>
+      <polyline points="168.183 582.949 160.123 582.949 160.123 546.738" fill="none" stroke="#236092" stroke-miterlimit="1" stroke-width="2"/>
+      <polygon points="166.597 580.625 175.27 582.949 166.597 585.273 166.597 580.625" fill="#236092"/>
+    </g>
+    <g>
+      <polyline points="152.817 582.949 160.148 582.949 160.148 546.795" fill="none" stroke="#236092" stroke-miterlimit="1" stroke-width="2"/>
+      <polygon points="154.402 585.273 145.729 582.949 154.402 580.625 154.402 585.273" fill="#236092"/>
+    </g>
+    <g>
+      <polyline points="152.817 332.901 160.148 332.901 160.148 307.376" fill="none" stroke="#236092" stroke-miterlimit="1" stroke-width="2"/>
+      <polygon points="154.402 335.226 145.729 332.901 154.402 330.577 154.402 335.226" fill="#236092"/>
+    </g>
+    <g>
+      <polyline points="168.183 332.901 160.123 332.901 160.123 307.376" fill="none" stroke="#236092" stroke-miterlimit="1" stroke-width="2"/>
+      <polygon points="166.597 330.577 175.27 332.901 166.597 335.226 166.597 330.577" fill="#236092"/>
+    </g>
+    <g>
+      <polyline points="152.817 620.025 160.148 620.025 160.148 583.002" fill="none" stroke="#236092" stroke-miterlimit="1" stroke-width="2"/>
+      <polygon points="154.402 622.35 145.729 620.025 154.402 617.701 154.402 622.35" fill="#236092"/>
+    </g>
+    <g>
+      <polyline points="168.183 620.02 160.123 620.02 160.123 582.938" fill="none" stroke="#236092" stroke-miterlimit="1" stroke-width="2"/>
+      <polygon points="166.597 617.695 175.27 620.02 166.597 622.344 166.597 617.695" fill="#236092"/>
+    </g>
+    <g>
+      <polyline points="152.817 657.096 160.148 657.096 160.148 619.973" fill="none" stroke="#236092" stroke-miterlimit="1" stroke-width="2"/>
+      <polygon points="154.402 659.42 145.729 657.096 154.402 654.771 154.402 659.42" fill="#236092"/>
+    </g>
+    <g>
+      <polyline points="152.817 694.166 160.148 694.166 160.148 657.363" fill="none" stroke="#236092" stroke-miterlimit="1" stroke-width="2"/>
+      <polygon points="154.402 696.49 145.729 694.166 154.402 691.842 154.402 696.49" fill="#236092"/>
+    </g>
+    <text transform="translate(132.388 682.038)" fill="#231f20" font-size="9"><tspan x="0" y="0">0-n</tspan></text>
+    <text transform="translate(60.15 477.365)" fill="#231f20" font-size="8"><tspan x="0" y="0">Real-World Value DR</tspan></text>
+    <text transform="translate(35.677 441.365)" fill="#231f20" font-size="8"><tspan x="0" y="0">Encapsulated Document DR</tspan></text>
+    <text transform="translate(63.267 512.68)" fill="#231f20" font-size="8"><tspan x="0" y="0">RT Structure Set DR</tspan></text>
+    <text transform="translate(45.486 547.995)" fill="#231f20" font-size="8"><tspan x="0" y="0">RT Treatment Record DR</tspan></text>
+    <text transform="translate(73.931 584.655)" fill="#231f20" font-size="8"><tspan x="0" y="0">Measurement DR</tspan></text>
+    <text transform="translate(74.814 621.725)" fill="#231f20" font-size="8"><tspan x="0" y="0">Surface Scan DR</tspan></text>
+    <text transform="translate(75.709 658.79)" fill="#231f20" font-size="8"><tspan x="0" y="0">Tractography DR</tspan></text>
+    <text transform="translate(20.13 695.859)" fill="#231f20" font-size="8"><tspan x="0" y="0">Content Assessments Result DR</tspan></text>
+    <rect x="16.914" y="721.457" width="128.777" height="18" fill="#9ab6d3" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+    <g>
+      <polyline points="152.817 730.969 160.148 730.969 160.148 694.166" fill="none" stroke="#236092" stroke-miterlimit="1" stroke-width="2"/>
+      <polygon points="154.402 733.293 145.729 730.969 154.402 728.645 154.402 733.293" fill="#236092"/>
+    </g>
+    <text transform="translate(132.388 718.841)" fill="#231f20" font-size="9"><tspan x="0" y="0">0-n</tspan></text>
+    <text transform="translate(39.251 732.662)" fill="#231f20" font-size="8"><tspan x="0" y="0">Waveform Presentation DR</tspan></text>
+    <text transform="translate(185.738 370.085)" fill="#231f20" font-size="8"><tspan x="0" y="0">Fiducials DR</tspan></text>
+    <text transform="translate(185.738 405.356)" fill="#231f20" font-size="8"><tspan x="0" y="0">Image DR</tspan></text>
+    <text transform="translate(185.738 441.365)" fill="#231f20" font-size="8"><tspan x="0" y="0">Raw Data DR</tspan></text>
+    <text transform="translate(74.373 370.086)" fill="#231f20" font-size="8"><tspan x="0" y="0">Spectroscopy DR</tspan></text>
+    <text transform="translate(77.923 334.994)" fill="#231f20" font-size="8"><tspan x="0" y="0">Presentation DR</tspan></text>
+    <text transform="translate(185.738 477.366)" fill="#231f20" font-size="8"><tspan x="0" y="0">Waveform DR</tspan></text>
+    <text transform="translate(185.738 512.68)" fill="#231f20" font-size="8"><tspan x="0" y="0">SR Document DR</tspan></text>
+    <text transform="translate(185.738 547.995)" fill="#231f20" font-size="8"><tspan x="0" y="0">RT Dose DR</tspan></text>
+    <text transform="translate(185.738 584.655)" fill="#231f20" font-size="8"><tspan x="0" y="0">RT Plan DR</tspan></text>
+    <text transform="translate(185.738 621.725)" fill="#231f20" font-size="8"><tspan x="0" y="0">Plan DR</tspan></text>
+    <g>
+      <rect x="175.129" y="647.584" width="83.994" height="18" fill="#9ab6d3" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+      <text transform="translate(174.328 644.552)" fill="#231f20" font-size="9"><tspan x="0" y="0">0-n</tspan></text>
+      <g>
+        <polyline points="168.183 657.084 160.123 657.084 160.123 620.002" fill="none" stroke="#236092" stroke-miterlimit="1" stroke-width="2"/>
+        <polygon points="166.597 654.76 175.27 657.084 166.597 659.408 166.597 654.76" fill="#236092"/>
+      </g>
+      <text transform="translate(185.738 658.79)" fill="#231f20" font-size="8"><tspan x="0" y="0">Radiotherapy DR</tspan></text>
+    </g>
+    <rect x="175.129" y="684.654" width="83.994" height="18" fill="#9ab6d3" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+    <text transform="translate(174.328 681.623)" fill="#231f20" font-size="9"><tspan x="0" y="0">0-n</tspan></text>
+    <g>
+      <polyline points="168.183 694.154 160.123 694.154 160.123 657.072" fill="none" stroke="#236092" stroke-miterlimit="1" stroke-width="2"/>
+      <polygon points="166.597 691.83 175.27 694.154 166.597 696.478 166.597 691.83" fill="#236092"/>
+    </g>
+    <text transform="translate(188.404 695.86)" fill="#231f20" font-size="8"><tspan x="0" y="0">Annotations DR</tspan></text>
+    <text transform="translate(185.738 334.995)" fill="#231f20" font-size="8"><tspan x="0" y="0">Registration DR</tspan></text>
+    <text transform="translate(77.493 405.356)" fill="#231f20" font-size="8"><tspan x="0" y="0">Stereometric DR</tspan></text>
+    <g>
+      <rect x="286.959" y="632.775" width="198.129" height="106.682" fill="#fff" stroke="#231f20" stroke-miterlimit="1"/>
+      <g>
+        <line x1="342.688" y1="658.84" x2="342.688" y2="666.367" fill="none" stroke="#236092" stroke-linecap="round" stroke-miterlimit="1" stroke-width="2"/>
+        <polygon points="340.364 664.781 342.688 673.454 345.012 664.781 340.364 664.781" fill="#236092"/>
+      </g>
+      <rect x="302.186" y="644.113" width="81" height="14.727" fill="#9ab6d3" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+      <text transform="translate(309.666 654.145)" fill="#231f20" font-size="9"><tspan x="0" y="0">Higher Level DR</tspan></text>
+      <g>
+        <line x1="342.678" y1="699.423" x2="342.678" y2="692.422" fill="none" stroke="#236092" stroke-linecap="round" stroke-miterlimit="1" stroke-width="2"/>
+        <polygon points="345.002 697.838 342.678 706.511 340.354 697.838 345.002 697.838" fill="#236092"/>
+      </g>
+      <polygon points="297.684 683.162 342.616 674.301 387.684 683.289 387.684 683.309 342.616 692.301 297.684 683.162" fill="#d2dce5" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+      <text transform="translate(321.418 685.288)" fill="#231f20" font-size="9"><tspan x="0" y="0">references</tspan></text>
+      <rect x="302.186" y="707.385" width="81" height="14.727" fill="#9ab6d3" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+      <text transform="translate(310.666 717.416)" fill="#231f20" font-size="9"><tspan x="0" y="0">Lower Level DR</tspan></text>
+      <text transform="translate(399.75 650.487)" fill="#231f20" font-size="9"><tspan x="0" y="0">The Higher-Level</tspan><tspan x="0" y="10.8">Directory Record</tspan><tspan x="0" y="21.6">references a</tspan><tspan x="0" y="32.4">Lower- Level</tspan><tspan x="0" y="43.2">Directory Entity</tspan><tspan x="0" y="54">that includes the</tspan><tspan x="0" y="64.8">Lower-Level</tspan><tspan x="0" y="75.6">Directory Record</tspan></text>
+    </g>
+    <g>
+      <line x1="160.249" y1="112.007" x2="160.249" y2="128.669" fill="none" stroke="#236092" stroke-linecap="round" stroke-miterlimit="1" stroke-width="2"/>
+      <polygon points="157.924 127.084 160.249 135.757 162.573 127.084 157.924 127.084" fill="#236092"/>
+    </g>
+    <g>
+      <line x1="160.203" y1="87.938" x2="160.203" y2="68.934" fill="none" stroke="#236092" stroke-linecap="round" stroke-miterlimit="1" stroke-width="2"/>
+      <polygon points="162.527 86.353 160.203 95.025 157.878 86.353 162.527 86.353" fill="#236092"/>
+    </g>
+    <g>
+      <line x1="160.313" y1="28.83" x2="160.261" y2="45.616" fill="none" stroke="#236092" stroke-linecap="round" stroke-miterlimit="1" stroke-width="2"/>
+      <polygon points="157.942 44.023 160.24 52.703 162.591 44.038 157.942 44.023" fill="#236092"/>
+    </g>
+    <rect x="122.371" y="95.775" width="75.745" height="16.231" fill="#9ab6d3" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+    <text transform="translate(140.898 106.835)" fill="#231f20" font-size="8"><tspan x="0" y="0">Patient DR</tspan></text>
+    <text transform="translate(187.118 136.214)" fill="#231f20" font-size="8"><tspan x="0" y="0">1</tspan></text>
+    <polygon points="127.679 60.694 160.094 52.703 192.607 60.811 192.607 60.829 160.094 68.935 127.679 60.694" fill="#d2dce5" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+    <text transform="translate(145.334 63.02)" fill="#231f20" font-size="8"><tspan x="0" y="0">includes</tspan></text>
+    <text transform="translate(188.125 58.021)" fill="#231f20" font-size="8"><tspan x="0" y="0">1</tspan></text>
+    <text transform="translate(165.048 93.067)" fill="#231f20" font-size="8"><tspan x="0" y="0">0-n</tspan></text>
+    <g>
+      <line x1="160.203" y1="170.659" x2="160.203" y2="151.989" fill="none" stroke="#236092" stroke-linecap="round" stroke-miterlimit="1" stroke-width="2"/>
+      <polygon points="162.527 169.073 160.203 177.746 157.878 169.073 162.527 169.073" fill="#236092"/>
+    </g>
+    <text transform="translate(165.048 175.46)" fill="#231f20" font-size="8"><tspan x="0" y="0">1-n</tspan></text>
+    <text transform="translate(357.44 91.067)" fill="#231f20" font-size="8"><tspan x="0" y="0">0-n</tspan></text>
+    <polygon points="119.551 299.102 160.069 291.112 200.71 299.219 200.71 299.236 160.069 307.343 119.551 299.102" fill="#d2dce5" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+    <text transform="translate(141.229 301.426)" fill="#231f20" font-size="8"><tspan x="0" y="0">references</tspan></text>
+    <g>
+      <line x1="160.2" y1="276.54" x2="160.2" y2="284.025" fill="none" stroke="#236092" stroke-linecap="round" stroke-miterlimit="1" stroke-width="2"/>
+      <polygon points="157.875 282.44 160.2 291.112 162.524 282.44 157.875 282.44" fill="#236092"/>
+    </g>
+    <text transform="translate(179.621 291.576)" fill="#231f20" font-size="8"><tspan x="0" y="0">1</tspan></text>
+    <polygon points="127.846 143.748 160.26 135.757 192.771 143.863 192.771 143.883 160.26 151.989 127.846 143.748" fill="#d2dce5" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+    <text transform="translate(141.409 146.064)" fill="#231f20" font-size="8"><tspan x="0" y="0">references</tspan></text>
+    <g>
+      <line x1="160.249" y1="194.366" x2="160.249" y2="211.03" fill="none" stroke="#236092" stroke-linecap="round" stroke-miterlimit="1" stroke-width="2"/>
+      <polygon points="157.924 209.445 160.249 218.117 162.573 209.445 157.924 209.445" fill="#236092"/>
+    </g>
+    <text transform="translate(188.29 218.575)" fill="#231f20" font-size="8"><tspan x="0" y="0">1</tspan></text>
+    <g>
+      <line x1="160.203" y1="234.239" x2="160.203" y2="253.442" fill="none" stroke="#236092" stroke-linecap="round" stroke-miterlimit="1" stroke-width="2"/>
+      <polygon points="157.878 251.857 160.203 260.529 162.527 251.857 157.878 251.857" fill="#236092"/>
+    </g>
+    <text transform="translate(181.125 237.081)" fill="#231f20" font-size="8"><tspan x="0" y="0">0-n</tspan></text>
+    <polygon points="127.846 226.108 160.26 218.117 192.771 226.224 192.771 226.242 160.26 234.348 127.846 226.108" fill="#d2dce5" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+    <text transform="translate(141.409 228.424)" fill="#231f20" font-size="8"><tspan x="0" y="0">references</tspan></text>
+    <rect x="122.371" y="178.169" width="75.745" height="16.232" fill="#9ab6d3" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+    <text transform="translate(143.123 189.228)" fill="#231f20" font-size="8"><tspan x="0" y="0">Study DR</tspan></text>
+    <rect x="122.371" y="260.529" width="75.745" height="16.231" fill="#9ab6d3" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+    <text transform="translate(142.013 271.588)" fill="#231f20" font-size="8"><tspan x="0" y="0">Series DR</tspan></text>
+    <rect x="240.002" y="122.401" width="129" height="16" fill="#9ab6d3" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+    <text transform="translate(357.44 119.12)" fill="#231f20" font-size="8"><tspan x="0" y="0">0-n</tspan></text>
+    <text transform="translate(357.44 147.173)" fill="#231f20" font-size="8"><tspan x="0" y="0">0-n</tspan></text>
+    <text transform="translate(357.44 175.227)" fill="#231f20" font-size="8"><tspan x="0" y="0">0-n</tspan></text>
+    <rect x="240.002" y="94.401" width="129" height="16" fill="#9ab6d3" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+    <text transform="translate(284.51 105.461)" fill="#231f20" font-size="8"><tspan x="0" y="0">Hanging Protocol DR</tspan></text>
+    <rect x="400.889" y="94.401" width="84" height="16" fill="#9ab6d3" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+    <text transform="translate(410.865 105.461)" fill="#231f20" font-size="8"><tspan x="0" y="0">Color Palette DR</tspan></text>
+    <text transform="translate(400.488 91.067)" fill="#231f20" font-size="8"><tspan x="0" y="0">0-n</tspan></text>
+    <g>
+      <polyline points="160.313 77.722 384.735 77.722 384.735 102.401 392.976 102.401" fill="none" stroke="#236092" stroke-linecap="round" stroke-miterlimit="1" stroke-width="2"/>
+      <polygon points="391.391 104.725 400.064 102.401 391.391 100.077 391.391 104.725" fill="#236092"/>
+    </g>
+    <text transform="translate(253.842 132.888)" fill="#231f20" font-size="8"><tspan x="0" y="0">Generic Implant Template DR</tspan></text>
+    <rect x="400.889" y="121.828" width="84" height="16" fill="#9ab6d3" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+    <text transform="translate(410.865 132.888)" fill="#231f20" font-size="8"><tspan x="0" y="0">Protocol DR</tspan></text>
+    <text transform="translate(400.488 119.12)" fill="#231f20" font-size="8"><tspan x="0" y="0">0-n</tspan></text>
+    <g>
+      <polyline points="384.735 103.775 384.735 129.944 392.976 129.944" fill="none" stroke="#236092" stroke-linecap="round" stroke-miterlimit="1" stroke-width="2"/>
+      <polygon points="391.391 132.268 400.064 129.944 391.391 127.62 391.391 132.268" fill="#236092"/>
+    </g>
+    <rect x="240.002" y="150.401" width="129" height="16" fill="#9ab6d3" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+    <text transform="translate(259.619 161.461)" fill="#231f20" font-size="8"><tspan x="0" y="0">Implant Template Group DR</tspan></text>
+    <rect x="400.889" y="150.401" width="84" height="16" fill="#9ab6d3" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+    <text transform="translate(410.873 161.461)" fill="#231f20" font-size="8"><tspan x="0" y="0">Approval DR</tspan></text>
+    <text transform="translate(400.488 147.173)" fill="#231f20" font-size="8"><tspan x="0" y="0">0-n</tspan></text>
+    <g>
+      <polyline points="384.735 129.828 384.735 158.401 392.976 158.401" fill="none" stroke="#236092" stroke-linecap="round" stroke-miterlimit="1" stroke-width="2"/>
+      <polygon points="391.391 160.725 400.064 158.401 391.391 156.077 391.391 160.725" fill="#236092"/>
+    </g>
+    <text transform="translate(400.488 175.227)" fill="#231f20" font-size="8"><tspan x="0" y="0">0-n</tspan></text>
+    <g>
+      <polyline points="384.426 77.722 384.426 102.401 376.185 102.401" fill="none" stroke="#236092" stroke-linecap="round" stroke-miterlimit="1" stroke-width="2"/>
+      <polygon points="377.771 100.077 369.098 102.401 377.771 104.726 377.771 100.077" fill="#236092"/>
+    </g>
+    <g>
+      <polyline points="384.426 103.775 384.426 129.944 376.185 129.944" fill="none" stroke="#236092" stroke-linecap="round" stroke-miterlimit="1" stroke-width="2"/>
+      <polygon points="377.771 127.62 369.098 129.944 377.771 132.268 377.771 127.62" fill="#236092"/>
+    </g>
+    <g>
+      <polyline points="384.426 129.828 384.426 158.401 376.185 158.401" fill="none" stroke="#236092" stroke-linecap="round" stroke-miterlimit="1" stroke-width="2"/>
+      <polygon points="377.771 156.077 369.098 158.401 377.771 160.726 377.771 156.077" fill="#236092"/>
+    </g>
+    <rect x="240.002" y="178.401" width="129" height="16" fill="#9ab6d3" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+    <text transform="translate(247.178 189.461)" fill="#231f20" font-size="8"><tspan x="0" y="0">Implant Assembly Template DR</tspan></text>
+    <rect x="400.889" y="178.401" width="84" height="16" fill="#9ab6d3" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+    <text transform="translate(410.865 189.461)" fill="#231f20" font-size="8"><tspan x="0" y="0">Inventory DR</tspan></text>
+    <g>
+      <polyline points="384.735 160.348 384.735 186.517 392.976 186.517" fill="none" stroke="#236092" stroke-linecap="round" stroke-miterlimit="1" stroke-width="2"/>
+      <polygon points="391.391 188.841 400.064 186.517 391.391 184.193 391.391 188.841" fill="#236092"/>
+    </g>
+    <g>
+      <polyline points="384.426 160.348 384.426 186.517 376.185 186.517" fill="none" stroke="#236092" stroke-linecap="round" stroke-miterlimit="1" stroke-width="2"/>
+      <polygon points="377.771 184.193 369.098 186.517 377.771 188.841 377.771 184.193" fill="#236092"/>
+    </g>
+    <rect x="107.49" y="12.543" width="105.509" height="16.232" fill="#9ab6d3" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+    <text transform="translate(123.561 23.601)" fill="#231f20" font-size="8"><tspan x="0" y="0">Root Directory Entity</tspan></text>
+  </g>
+</svg>

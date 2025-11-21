@@ -1,0 +1,1128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="904px"
+   height="760px"
+   viewBox="0 0 904 760"
+   style="overflow: hidden; display: block; width: 904px; height: 760px;"
+   version="1.1"
+   id="svg486"
+   sodipodi:docname="4302_overall_ft.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <metadata
+     id="metadata490">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1998"
+     inkscape:window-height="1352"
+     id="namedview488"
+     showgrid="false"
+     inkscape:zoom="0.96710526"
+     inkscape:cx="452"
+     inkscape:cy="380"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g482" />
+  <rect
+     width="904px"
+     height="760px"
+     fill="white"
+     id="rect10" />
+  <defs
+     id="defs13">
+    <path
+       fill="rgb(111,138,155)"
+       stroke="none"
+       d="M 0,0 L 5,-5 L 3,0 L 5,5 Z"
+       fill-opacity="1"
+       id="ygc11_0" />
+  </defs>
+  <g
+     style="pointer-events:visiblePainted"
+     transform="translate(29.740259795473776 740)"
+     image-rendering="auto"
+     shape-rendering="auto"
+     id="g482">
+    <g
+       id="g19">
+      <path
+         fill="none"
+         stroke="rgb(111,138,155)"
+         d="M 422.2842712474619,-360 L 688.5194804090524,-360"
+         stroke-opacity="1"
+         stroke-width="5"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         id="path15" />
+      <use
+         xlink:href="#ygc11_0"
+         transform="matrix(-2 0 0 -2 694.5194804090524 -360)"
+         style="pointer-events: none;"
+         id="use17" />
+    </g>
+    <g
+       id="g25">
+      <path
+         fill="none"
+         stroke="rgb(111,138,155)"
+         d="M 150,-326.6666666666667 L 160,-326.6666666666667 L 174.14213562373095,-312.52453104293573 L 174.14213562373095,-201.64213562373095 L 188.2842712474619,-187.5 L 266.2842712474619,-187.5"
+         stroke-opacity="1"
+         stroke-width="5"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         id="path21" />
+      <use
+         xlink:href="#ygc11_0"
+         transform="matrix(-2 0 0 -2 272.2842712474619 -187.5)"
+         style="pointer-events: none;"
+         id="use23" />
+    </g>
+    <g
+       id="g31">
+      <path
+         fill="none"
+         stroke="rgb(111,138,155)"
+         d="M 150,-360 L 266.2842712474619,-360"
+         stroke-opacity="1"
+         stroke-width="5"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         id="path27" />
+      <use
+         xlink:href="#ygc11_0"
+         transform="matrix(-2 0 0 -2 272.2842712474619 -360)"
+         style="pointer-events: none;"
+         id="use29" />
+    </g>
+    <g
+       id="g37">
+      <path
+         fill="none"
+         stroke="rgb(111,138,155)"
+         d="M 150,-393.3333333333333 L 160,-393.3333333333333 L 174.14213562373095,-407.47546895706427 L 174.14213562373095,-518.357864376269 L 188.2842712474619,-532.5 L 266.2842712474619,-532.5"
+         stroke-opacity="1"
+         stroke-width="5"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         id="path33" />
+      <use
+         xlink:href="#ygc11_0"
+         transform="matrix(-2 0 0 -2 272.2842712474619 -532.5)"
+         style="pointer-events: none;"
+         id="use35" />
+    </g>
+    <g
+       id="g43">
+      <path
+         fill="none"
+         stroke="rgb(111,138,155)"
+         d="M 422.2842712474619,-320 L 432.2842712474619,-320 L 472.2842712474619,-280 L 546.2842712474619,-280 L 572.9509379141286,-253.33333333333326 L 572.9509379141286,-74.14213562373095 L 587.0930735378596,-60 L 688.5194804090524,-60"
+         stroke-opacity="1"
+         stroke-width="5"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         id="path39" />
+      <use
+         xlink:href="#ygc11_0"
+         transform="matrix(-2 0 0 -2 694.5194804090524 -60)"
+         style="pointer-events: none;"
+         id="use41" />
+    </g>
+    <g
+       id="g49">
+      <path
+         fill="none"
+         stroke="rgb(111,138,155)"
+         d="M 422.2842712474619,-495 L 432.2842712474619,-495 L 447.2842712474619,-480 L 592.9509379141285,-480 L 607.0930735378596,-465.85786437626894 L 607.0930735378596,-107.47546895706428 L 621.2352091615905,-93.33333333333333 L 688.5194804090524,-93.33333333333333"
+         stroke-opacity="1"
+         stroke-width="5"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         id="path45" />
+      <use
+         xlink:href="#ygc11_0"
+         transform="matrix(-2 0 0 -2 694.5194804090524 -93.33333333333333)"
+         style="pointer-events: none;"
+         id="use47" />
+    </g>
+    <g
+       id="g55">
+      <path
+         fill="none"
+         stroke="rgb(111,138,155)"
+         d="M 422.2842712474619,-150 L 432.2842712474619,-150 L 446.42640687119285,-135.85786437626905 L 446.42640687119285,-40.808802290397615 L 460.5685424949238,-26.666666666666664 L 688.5194804090524,-26.66666666666667"
+         stroke-opacity="1"
+         stroke-width="5"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         id="path51" />
+      <use
+         xlink:href="#ygc11_0"
+         transform="matrix(-2 6.234172513277999e-17 -6.234172513277999e-17 -2 694.5194804090524 -26.66666666666667)"
+         style="pointer-events: none;"
+         id="use53" />
+    </g>
+    <g
+       id="g61">
+      <path
+         fill="none"
+         stroke="rgb(111,138,155)"
+         d="M 422.2842712474619,-520 L 641.2352091615905,-520 L 665.3773447853215,-495.85786437626905 L 665.3773447853215,-257.47546895706427 L 679.5194804090524,-243.33333333333331 L 688.5194804090524,-243.33333333333331"
+         stroke-opacity="1"
+         stroke-width="5"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         id="path57" />
+      <use
+         xlink:href="#ygc11_0"
+         transform="matrix(-2 0 0 -2 694.5194804090524 -243.33333333333331)"
+         style="pointer-events: none;"
+         id="use59" />
+    </g>
+    <g
+       id="g67">
+      <path
+         fill="none"
+         stroke="rgb(111,138,155)"
+         d="M 422.2842712474619,-340 L 432.2842712474619,-340 L 452.2842712474619,-320 L 546.2842712474619,-320 L 582.9509379141286,-283.33333333333326 L 582.9509379141286,-224.14213562373095 L 597.0930735378596,-210 L 688.5194804090524,-210"
+         stroke-opacity="1"
+         stroke-width="5"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         id="path63" />
+      <use
+         xlink:href="#ygc11_0"
+         transform="matrix(-2 0 0 -2 694.5194804090524 -210)"
+         style="pointer-events: none;"
+         id="use65" />
+    </g>
+    <g
+       id="g73">
+      <path
+         fill="none"
+         stroke="rgb(111,138,155)"
+         d="M 422.2842712474619,-175 L 441.42640687119285,-175 L 456.42640687119285,-160 L 546.2842712474619,-160 L 562.9509379141286,-176.66666666666669 L 688.5194804090524,-176.66666666666669"
+         stroke-opacity="1"
+         stroke-width="5"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         id="path69" />
+      <use
+         xlink:href="#ygc11_0"
+         transform="matrix(-2 0 0 -2 694.5194804090524 -176.66666666666669)"
+         style="pointer-events: none;"
+         id="use71" />
+    </g>
+    <g
+       id="g79">
+      <path
+         fill="none"
+         stroke="rgb(111,138,155)"
+         d="M 422.2842712474619,-545 L 441.42640687119285,-545 L 456.42640687119285,-560 L 546.2842712474619,-560 L 562.9509379141285,-543.3333333333334 L 688.5194804090524,-543.3333333333334"
+         stroke-opacity="1"
+         stroke-width="5"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         id="path75" />
+      <use
+         xlink:href="#ygc11_0"
+         transform="matrix(-2 0 0 -2 694.5194804090524 -543.3333333333334)"
+         style="pointer-events: none;"
+         id="use77" />
+    </g>
+    <g
+       id="g85">
+      <path
+         fill="none"
+         stroke="rgb(111,138,155)"
+         d="M 422.2842712474619,-200 L 617.0930735378596,-200 L 641.2352091615905,-224.14213562373095 L 641.2352091615905,-462.52453104293573 L 655.3773447853215,-476.6666666666667 L 688.5194804090524,-476.6666666666667"
+         stroke-opacity="1"
+         stroke-width="5"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         id="path81" />
+      <use
+         xlink:href="#ygc11_0"
+         transform="matrix(-2 0 0 -2 694.5194804090524 -476.6666666666667)"
+         style="pointer-events: none;"
+         id="use83" />
+    </g>
+    <g
+       id="g91">
+      <path
+         fill="none"
+         stroke="rgb(111,138,155)"
+         d="M 422.2842712474619,-380 L 432.2842712474619,-380 L 452.2842712474619,-400 L 546.2842712474619,-400 L 582.9509379141285,-436.66666666666663 L 582.9509379141285,-495.85786437626905 L 597.0930735378595,-510 L 688.5194804090524,-510"
+         stroke-opacity="1"
+         stroke-width="5"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         id="path87" />
+      <use
+         xlink:href="#ygc11_0"
+         transform="matrix(-2 0 0 -2 694.5194804090524 -510)"
+         style="pointer-events: none;"
+         id="use89" />
+    </g>
+    <g
+       id="g97">
+      <path
+         fill="none"
+         stroke="rgb(111,138,155)"
+         d="M 422.2842712474619,-400 L 432.2842712474619,-400 L 472.2842712474619,-440 L 546.2842712474619,-440 L 572.9509379141285,-466.66666666666663 L 572.9509379141285,-645.857864376269 L 587.0930735378595,-660 L 688.5194804090524,-660"
+         stroke-opacity="1"
+         stroke-width="5"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         id="path93" />
+      <use
+         xlink:href="#ygc11_0"
+         transform="matrix(-2 0 0 -2 694.5194804090524 -660)"
+         style="pointer-events: none;"
+         id="use95" />
+    </g>
+    <g
+       id="g103">
+      <path
+         fill="none"
+         stroke="rgb(111,138,155)"
+         d="M 422.2842712474619,-225 L 432.2842712474619,-225 L 447.2842712474619,-240 L 617.0930735378596,-240 L 631.2352091615905,-254.14213562373095 L 631.2352091615905,-612.5245310429357 L 645.3773447853215,-626.6666666666666 L 688.5194804090524,-626.6666666666666"
+         stroke-opacity="1"
+         stroke-width="5"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         id="path99" />
+      <use
+         xlink:href="#ygc11_0"
+         transform="matrix(-2 0 0 -2 694.5194804090524 -626.6666666666666)"
+         style="pointer-events: none;"
+         id="use101" />
+    </g>
+    <g
+       id="g109">
+      <path
+         fill="none"
+         stroke="rgb(111,138,155)"
+         d="M 422.2842712474619,-570 L 432.2842712474619,-570 L 446.42640687119285,-584.142135623731 L 446.42640687119285,-679.1911977096024 L 460.5685424949238,-693.3333333333334 L 688.5194804090524,-693.3333333333334"
+         stroke-opacity="1"
+         stroke-width="5"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         id="path105" />
+      <use
+         xlink:href="#ygc11_0"
+         transform="matrix(-2 0 0 -2 694.5194804090524 -693.3333333333334)"
+         style="pointer-events: none;"
+         id="use107" />
+    </g>
+    <g
+       id="g134">
+      <g
+         transform="translate(694.5194804090524 -410)"
+         id="g132">
+        <rect
+           x="0"
+           y="0"
+           width="150"
+           height="100"
+           fill="#50636f"
+           id="rect111" />
+        <rect
+           x="0"
+           y="0"
+           width="150"
+           height="20"
+           fill="rgba(0,0,0,0.2)"
+           id="rect113" />
+        <text
+           y="16"
+           x="5"
+           style="font-size: 18px; fill: rgb(255, 255, 255);"
+           id="text115">TID</text>
+        <g
+           id="g130">
+          <g
+             transform="translate(5.000000000000007 25)"
+             id="g128">
+            <text
+               dy="1em"
+               transform="translate(0 0)"
+               clip-path="url(#svg-text-120)"
+               fill="white"
+               opacity="1"
+               font-family="'Roboto'"
+               font-size="14px"
+               font-style="normal"
+               font-weight="normal"
+               text-decoration="none"
+               id="text123"><tspan
+                 dy="0.9285714285714286em"
+                 x="0"
+                 id="tspan117">TID 4306. PI-RADS®</tspan><tspan
+                 dy="1.5em"
+                 x="0"
+                 id="tspan119">Localized Abnormality</tspan><tspan
+                 dy="1.5em"
+                 x="0"
+                 id="tspan121">Assessment</tspan></text>
+            <clipPath
+               id="svg-text-120">
+              <rect
+                 width="140"
+                 height="70"
+                 x="0"
+                 id="rect125" />
+            </clipPath>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g157">
+      <g
+         transform="translate(0 -410)"
+         id="g155">
+        <rect
+           x="0"
+           y="0"
+           width="150"
+           height="100"
+           fill="#50636f"
+           id="rect136" />
+        <rect
+           x="0"
+           y="0"
+           width="150"
+           height="20"
+           fill="rgba(0,0,0,0.2)"
+           id="rect138" />
+        <text
+           y="16"
+           x="5"
+           style="font-size: 18px; fill: rgb(255, 255, 255);"
+           id="text140">TID</text>
+        <g
+           id="g153">
+          <g
+             transform="translate(5.000000000000007 25)"
+             id="g151">
+            <text
+               dy="1em"
+               transform="translate(0 0)"
+               clip-path="url(#svg-text-121)"
+               fill="white"
+               opacity="1"
+               font-family="'Roboto'"
+               font-size="14px"
+               font-style="normal"
+               font-weight="normal"
+               text-decoration="none"
+               id="text146"><tspan
+                 dy="0.9285714285714286em"
+                 x="0"
+                 id="tspan142">TID 4302. Prostate</tspan><tspan
+                 dy="1.5em"
+                 x="0"
+                 id="tspan144">Imaging Findings</tspan></text>
+            <clipPath
+               id="svg-text-121">
+              <rect
+                 width="140"
+                 height="70"
+                 x="0"
+                 id="rect148" />
+            </clipPath>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g180">
+      <g
+         transform="translate(272.2842712474619 -237.5)"
+         id="g178">
+        <rect
+           x="0"
+           y="0"
+           width="150"
+           height="100"
+           fill="#50636f"
+           id="rect159" />
+        <rect
+           x="0"
+           y="0"
+           width="150"
+           height="20"
+           fill="rgba(0,0,0,0.2)"
+           id="rect161" />
+        <text
+           y="16"
+           x="5"
+           style="font-size: 18px; fill: rgb(255, 255, 255);"
+           id="text163">TID</text>
+        <g
+           id="g176">
+          <g
+             transform="translate(5.000000000000007 25)"
+             id="g174">
+            <text
+               dy="1em"
+               transform="translate(0 0)"
+               clip-path="url(#svg-text-122)"
+               fill="white"
+               opacity="1"
+               font-family="'Roboto'"
+               font-size="14px"
+               font-style="normal"
+               font-weight="normal"
+               text-decoration="none"
+               id="text169"><tspan
+                 dy="0.9285714285714286em"
+                 x="0"
+                 id="tspan165">TID 4303. Overall</tspan><tspan
+                 dy="1.5em"
+                 x="0"
+                 id="tspan167">Prostate Finding</tspan></text>
+            <clipPath
+               id="svg-text-122">
+              <rect
+                 width="140"
+                 height="70"
+                 x="0"
+                 id="rect171" />
+            </clipPath>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g203">
+      <g
+         transform="translate(272.2842712474619 -410)"
+         id="g201">
+        <rect
+           x="0"
+           y="0"
+           width="150"
+           height="100"
+           fill="#50636f"
+           id="rect182" />
+        <rect
+           x="0"
+           y="0"
+           width="150"
+           height="20"
+           fill="rgba(0,0,0,0.2)"
+           id="rect184" />
+        <text
+           y="16"
+           x="5"
+           style="font-size: 18px; fill: rgb(255, 255, 255);"
+           id="text186">TID</text>
+        <g
+           id="g199">
+          <g
+             transform="translate(5.000000000000007 25)"
+             id="g197">
+            <text
+               dy="1em"
+               transform="translate(0 0)"
+               clip-path="url(#svg-text-123)"
+               fill="white"
+               opacity="1"
+               font-family="'Roboto'"
+               font-size="14px"
+               font-style="normal"
+               font-weight="normal"
+               text-decoration="none"
+               id="text192"><tspan
+                 dy="0.9285714285714286em"
+                 x="0"
+                 id="tspan188">TID 4304. Localized</tspan><tspan
+                 dy="1.5em"
+                 x="0"
+                 id="tspan190">Prostate Finding</tspan></text>
+            <clipPath
+               id="svg-text-123">
+              <rect
+                 width="140"
+                 height="70"
+                 x="0"
+                 id="rect194" />
+            </clipPath>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g226">
+      <g
+         transform="translate(272.2842712474619 -582.5)"
+         id="g224">
+        <rect
+           x="0"
+           y="0"
+           width="150"
+           height="100"
+           fill="#50636f"
+           id="rect205" />
+        <rect
+           x="0"
+           y="0"
+           width="150"
+           height="20"
+           fill="rgba(0,0,0,0.2)"
+           id="rect207" />
+        <text
+           y="16"
+           x="5"
+           style="font-size: 18px; fill: rgb(255, 255, 255);"
+           id="text209">TID</text>
+        <g
+           id="g222">
+          <g
+             transform="translate(5.000000000000007 25)"
+             id="g220">
+            <text
+               dy="1em"
+               transform="translate(0 0)"
+               clip-path="url(#svg-text-124)"
+               fill="white"
+               opacity="1"
+               font-family="'Roboto'"
+               font-size="14px"
+               font-style="normal"
+               font-weight="normal"
+               text-decoration="none"
+               id="text215"><tspan
+                 dy="0.9285714285714286em"
+                 x="0"
+                 id="tspan211">TID 4305. Extra-prostatic</tspan><tspan
+                 dy="1.5em"
+                 x="0"
+                 id="tspan213">Finding</tspan></text>
+            <clipPath
+               id="svg-text-124">
+              <rect
+                 width="140"
+                 height="70"
+                 x="0"
+                 id="rect217" />
+            </clipPath>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g251">
+      <g
+         transform="translate(694.5194804090524 -110)"
+         id="g249">
+        <rect
+           x="0"
+           y="0"
+           width="150"
+           height="100"
+           fill="#50636f"
+           id="rect228" />
+        <rect
+           x="0"
+           y="0"
+           width="150"
+           height="20"
+           fill="rgba(0,0,0,0.2)"
+           id="rect230" />
+        <text
+           y="16"
+           x="5"
+           style="font-size: 18px; fill: rgb(255, 255, 255);"
+           id="text232">TID</text>
+        <g
+           id="g247">
+          <g
+             transform="translate(5.000000000000007 25)"
+             id="g245">
+            <text
+               dy="1em"
+               transform="translate(0 0)"
+               clip-path="url(#svg-text-125)"
+               fill="white"
+               opacity="1"
+               font-family="'Roboto'"
+               font-size="14px"
+               font-style="normal"
+               font-weight="normal"
+               text-decoration="none"
+               id="text240"><tspan
+                 dy="0.9285714285714286em"
+                 x="0"
+                 id="tspan234">TID 1501. Measureme</tspan><tspan
+                 dy="1.5em"
+                 x="0"
+                 id="tspan236">nt and Qualitative Eval</tspan><tspan
+                 dy="1.5em"
+                 x="0"
+                 id="tspan238">uation Group</tspan></text>
+            <clipPath
+               id="svg-text-125">
+              <rect
+                 width="140"
+                 height="70"
+                 x="0"
+                 id="rect242" />
+            </clipPath>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g276">
+      <g
+         transform="translate(694.5194804090524 -260)"
+         id="g274">
+        <rect
+           x="0"
+           y="0"
+           width="150"
+           height="100"
+           fill="#50636f"
+           id="rect253" />
+        <rect
+           x="0"
+           y="0"
+           width="150"
+           height="20"
+           fill="rgba(0,0,0,0.2)"
+           id="rect255" />
+        <text
+           y="16"
+           x="5"
+           style="font-size: 18px; fill: rgb(255, 255, 255);"
+           id="text257">TID</text>
+        <g
+           id="g272">
+          <g
+             transform="translate(5.000000000000007 25)"
+             id="g270">
+            <text
+               dy="1em"
+               transform="translate(0 0)"
+               clip-path="url(#svg-text-126)"
+               fill="white"
+               opacity="1"
+               font-family="'Roboto'"
+               font-size="14px"
+               font-style="normal"
+               font-weight="normal"
+               text-decoration="none"
+               id="text265"><tspan
+                 dy="0.9285714285714286em"
+                 x="0"
+                 id="tspan259">TID 1410. Planar ROI </tspan><tspan
+                 dy="1.5em"
+                 x="0"
+                 id="tspan261">Measurements and Q</tspan><tspan
+                 dy="1.5em"
+                 x="0"
+                 id="tspan263">ualitative Evaluations</tspan></text>
+            <clipPath
+               id="svg-text-126">
+              <rect
+                 width="140"
+                 height="70"
+                 x="0"
+                 id="rect267" />
+            </clipPath>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g299">
+      <g
+         transform="translate(694.5194804090524 -560)"
+         id="g297">
+        <rect
+           x="0"
+           y="0"
+           width="150"
+           height="100"
+           fill="#50636f"
+           id="rect278" />
+        <rect
+           x="0"
+           y="0"
+           width="150"
+           height="20"
+           fill="rgba(0,0,0,0.2)"
+           id="rect280" />
+        <text
+           y="16"
+           x="5"
+           style="font-size: 18px; fill: rgb(255, 255, 255);"
+           id="text282">TID</text>
+        <g
+           id="g295">
+          <g
+             transform="translate(5.000000000000007 25)"
+             id="g293">
+            <text
+               dy="1em"
+               transform="translate(0 0)"
+               clip-path="url(#svg-text-127)"
+               fill="white"
+               opacity="1"
+               font-family="'Roboto'"
+               font-size="14px"
+               font-style="normal"
+               font-weight="normal"
+               text-decoration="none"
+               id="text288"><tspan
+                 dy="0.9285714285714286em"
+                 x="0"
+                 id="tspan284">TID 3909. Best Illustra</tspan><tspan
+                 dy="1.5em"
+                 x="0"
+                 id="tspan286">tion of Findings</tspan></text>
+            <clipPath
+               id="svg-text-127">
+              <rect
+                 width="140"
+                 height="70"
+                 x="0"
+                 id="rect290" />
+            </clipPath>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g324">
+      <g
+         transform="translate(694.5194804090524 -710)"
+         id="g322">
+        <rect
+           x="0"
+           y="0"
+           width="150"
+           height="100"
+           fill="#50636f"
+           id="rect301" />
+        <rect
+           x="0"
+           y="0"
+           width="150"
+           height="20"
+           fill="rgba(0,0,0,0.2)"
+           id="rect303" />
+        <text
+           y="16"
+           x="5"
+           style="font-size: 18px; fill: rgb(255, 255, 255);"
+           id="text305">TID</text>
+        <g
+           id="g320">
+          <g
+             transform="translate(5.000000000000007 25)"
+             id="g318">
+            <text
+               dy="1em"
+               transform="translate(0 0)"
+               clip-path="url(#svg-text-128)"
+               fill="white"
+               opacity="1"
+               font-family="'Roboto'"
+               font-size="14px"
+               font-style="normal"
+               font-weight="normal"
+               text-decoration="none"
+               id="text313"><tspan
+                 dy="0.9285714285714286em"
+                 x="0"
+                 id="tspan307">TID 1411. Volumetric </tspan><tspan
+                 dy="1.5em"
+                 x="0"
+                 id="tspan309">ROI Measurements an</tspan><tspan
+                 dy="1.5em"
+                 x="0"
+                 id="tspan311">d Qualitative Evaluati…</tspan></text>
+            <clipPath
+               id="svg-text-128">
+              <rect
+                 width="140"
+                 height="70"
+                 x="0"
+                 id="rect315" />
+            </clipPath>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       transform="translate(121 -339)"
+       id="g430">
+      <rect
+         fill="rgb(0,0,0)"
+         stroke="none"
+         fill-opacity="0.2"
+         x="0"
+         y="0"
+         width="29"
+         height="29"
+         id="rect422" />
+      <text
+         font-family="'Roboto', 'Noto', sans-serif"
+         font-size="10px"
+         font-style="normal"
+         font-weight="normal"
+         text-decoration="none"
+         text-anchor="start"
+         fill="rgb(255,255,255)"
+         fill-opacity="1"
+         transform="translate(2 1.4296875)"
+         id="text428"><tspan
+           dy="0.9em"
+           x="0"
+           id="tspan424">●← 1</tspan><tspan
+           dy="1.5em"
+           x="0"
+           id="tspan426">●→ 0</tspan></text>
+    </g>
+    <g
+       transform="translate(393.2842712474619 -339)"
+       id="g440">
+      <rect
+         fill="rgb(0,0,0)"
+         stroke="none"
+         fill-opacity="0.2"
+         x="0"
+         y="0"
+         width="29"
+         height="29"
+         id="rect432" />
+      <text
+         font-family="'Roboto', 'Noto', sans-serif"
+         font-size="10px"
+         font-style="normal"
+         font-weight="normal"
+         text-decoration="none"
+         text-anchor="start"
+         fill="rgb(255,255,255)"
+         fill-opacity="1"
+         transform="translate(2 1.4296875)"
+         id="text438"><tspan
+           dy="0.9em"
+           x="0"
+           id="tspan434">●← 0</tspan><tspan
+           dy="1.5em"
+           x="0"
+           id="tspan436">●→ 1</tspan></text>
+    </g>
+    <g
+       transform="translate(815.5194804090524 -39)"
+       id="g450">
+      <rect
+         fill="rgb(0,0,0)"
+         stroke="none"
+         fill-opacity="0.2"
+         x="0"
+         y="0"
+         width="29"
+         height="29"
+         id="rect442" />
+      <text
+         font-family="'Roboto', 'Noto', sans-serif"
+         font-size="10px"
+         font-style="normal"
+         font-weight="normal"
+         text-decoration="none"
+         text-anchor="start"
+         fill="rgb(255,255,255)"
+         fill-opacity="1"
+         transform="translate(2 1.4296875)"
+         id="text448"><tspan
+           dy="0.9em"
+           x="0"
+           id="tspan444">●← 1</tspan><tspan
+           dy="1.5em"
+           x="0"
+           id="tspan446">●→ 3</tspan></text>
+    </g>
+    <g
+       transform="translate(815.5194804090524 -189)"
+       id="g460">
+      <rect
+         fill="rgb(0,0,0)"
+         stroke="none"
+         fill-opacity="0.2"
+         x="0"
+         y="0"
+         width="29"
+         height="29"
+         id="rect452" />
+      <text
+         font-family="'Roboto', 'Noto', sans-serif"
+         font-size="10px"
+         font-style="normal"
+         font-weight="normal"
+         text-decoration="none"
+         text-anchor="start"
+         fill="rgb(255,255,255)"
+         fill-opacity="1"
+         transform="translate(2 1.4296875)"
+         id="text458"><tspan
+           dy="0.9em"
+           x="0"
+           id="tspan454">●← 2</tspan><tspan
+           dy="1.5em"
+           x="0"
+           id="tspan456">●→ 2</tspan></text>
+    </g>
+    <g
+       transform="translate(815.5194804090524 -489)"
+       id="g470">
+      <rect
+         fill="rgb(0,0,0)"
+         stroke="none"
+         fill-opacity="0.2"
+         x="0"
+         y="0"
+         width="29"
+         height="29"
+         id="rect462" />
+      <text
+         font-family="'Roboto', 'Noto', sans-serif"
+         font-size="10px"
+         font-style="normal"
+         font-weight="normal"
+         text-decoration="none"
+         text-anchor="start"
+         fill="rgb(255,255,255)"
+         fill-opacity="1"
+         transform="translate(2 1.4296875)"
+         id="text468"><tspan
+           dy="0.9em"
+           x="0"
+           id="tspan464">●← 4</tspan><tspan
+           dy="1.5em"
+           x="0"
+           id="tspan466">●→ 0</tspan></text>
+    </g>
+    <g
+       transform="translate(815.5194804090524 -639)"
+       id="g480">
+      <rect
+         fill="rgb(0,0,0)"
+         stroke="none"
+         fill-opacity="0.2"
+         x="0"
+         y="0"
+         width="29"
+         height="29"
+         id="rect472" />
+      <text
+         font-family="'Roboto', 'Noto', sans-serif"
+         font-size="10px"
+         font-style="normal"
+         font-weight="normal"
+         text-decoration="none"
+         text-anchor="start"
+         fill="rgb(255,255,255)"
+         fill-opacity="1"
+         transform="translate(2 1.4296875)"
+         id="text478"><tspan
+           dy="0.9em"
+           x="0"
+           id="tspan474">●← 2</tspan><tspan
+           dy="1.5em"
+           x="0"
+           id="tspan476">●→ 2</tspan></text>
+    </g>
+  </g>
+  <style
+     id="style484">.detail-node-style {
+ fill: none;
+ stroke: none;
+}
+ .detail-node-style .title-background {
+ fill: #485563;
+}
+ .detail-node-style .title-background.filtered {
+ fill: #b5bbc1;
+}
+ .detail-node-style .title-text {
+ font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+ font-size: 16px;
+ fill: #fff;
+}
+ .detail-node-style .title-text.filtered {
+ fill: #fff;
+}
+ .detail-node-style .labels-background {
+ fill: #fff;
+}
+ .detail-node-style .labels-background.filtered {
+ fill: #fff;
+}
+ .detail-node-style .label-background {
+ fill: #6f8088;
+}
+ .detail-node-style .label-background.filtered {
+ fill: #b5bbc1;
+}
+ .detail-node-style .label-text {
+ font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+ font-size: 12px;
+ fill: #ffffff;
+}
+ .detail-node-style .label-text.filtered {
+ fill: #ffffff;
+}
+ .detail-node-style .border {
+ stroke: #5681b3;
+ stroke-width: 3px;
+}
+ .detail-node-style .border.filtered {
+ stroke: #b5bbc1;
+}</style>
+</svg>

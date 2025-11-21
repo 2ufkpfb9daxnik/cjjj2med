@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 782 412" enable-background="new 0 0 782 412" xml:space="preserve">
+    
+<defs>
+	<style type="text/css">
+	text {
+	  font-family: Helvetica, Verdana, ArialUnicodeMS, san-serif
+	}
+	</style>
+</defs>
+
+<g>
+   <desc>
+	PS 3.3 : Information Object Definitions
+   </desc>
+</g>
+
+
+  
+  <g>
+    <g id="Layer_1">
+      <g>
+        <rect x="1" y="1" width="780" height="410" fill="#f2ecc0"/>
+        <g>
+          <rect x="13.5" y="15.847" width="755" height="325" fill="#f1f3f6" stroke="#939598" stroke-dasharray="4 4" stroke-miterlimit="1"/>
+          <g>
+            <g>
+              <rect x="618.941" y="332.347" width="128" height="17" rx="5" ry="5" fill="#f1f3f6"/>
+              <rect x="618.941" y="332.347" width="128" height="17" rx="5" ry="5" fill="none" stroke="#939598" stroke-dasharray="4 4" stroke-miterlimit="1"/>
+            </g>
+            <text transform="translate(629.915 343.631)" fill="#231f20" font-size="9"><tspan x="0" y="0">Same Frame of Reference</tspan></text>
+          </g>
+          <rect x="103.105" y="376.077" width="280" height="20" fill="#9ab6d3" stroke="#236092" stroke-miterlimit="1" stroke-width="2"/>
+          <text transform="translate(109.704 389.687)" fill="#231f20" font-size="12"><tspan x="0" y="0">Opth Photography Image SOP Instance (localizer)</tspan></text>
+          <rect x="464.746" y="376.097" width="158.273" height="20.055" fill="#9ab6d3" stroke="#236092" stroke-miterlimit="1" stroke-width="2"/>
+          <text transform="translate(477.513 389.687)" fill="#231f20" font-size="12"><tspan x="0" y="0">Raw Data SOP Instance</tspan></text>
+          <rect x="28.089" y="30.598" width="656.071" height="58.5" fill="#9ab6d3" stroke="#236092" stroke-miterlimit="1" stroke-width="2"/>
+          <text transform="translate(33.778 44.188)" fill="#231f20" font-size="12"><tspan x="0" y="0">Opth OCT En Face Image SOP Instance</tspan></text>
+          <g>
+            <rect x="62.954" y="60.474" width="163.865" height="17.151" fill="#d2dce5" stroke="#236092" stroke-miterlimit="1" stroke-width=".5"/>
+            <text transform="translate(67.623 72.232)" fill="#231f20" font-size="10"><tspan x="0" y="0">Frame Location Referenced Image</tspan></text>
+          </g>
+          <g>
+            <rect x="286.819" y="60.474" width="72" height="17.151" fill="#d2dce5" stroke="#236092" stroke-miterlimit="1" stroke-width=".5"/>
+            <text transform="translate(291.69 72.232)" fill="#231f20" font-size="10"><tspan x="0" y="0">Source Image</tspan></text>
+          </g>
+          <g>
+            <rect x="418.819" y="60.474" width="72" height="17.151" fill="#d2dce5" stroke="#236092" stroke-miterlimit="1" stroke-width=".5"/>
+            <text transform="translate(423.69 72.232)" fill="#231f20" font-size="10"><tspan x="0" y="0">Source Image</tspan></text>
+          </g>
+          <g>
+            <rect x="550.819" y="60.474" width="125" height="17.151" fill="#d2dce5" stroke="#236092" stroke-miterlimit="1" stroke-width=".5"/>
+            <text transform="translate(555.225 72.232)" fill="#231f20" font-size="10"><tspan x="0" y="0">Referenced Segmentation</tspan></text>
+          </g>
+          <rect x="313.289" y="267.597" width="283.059" height="58.5" fill="#9ab6d3" stroke="#236092" stroke-miterlimit="1"/>
+          <rect x="321.017" y="297.474" width="163.865" height="17.151" fill="#d2dce5" stroke="#236092" stroke-miterlimit="1" stroke-width=".5"/>
+          <rect x="498.882" y="297.474" width="90" height="17.151" fill="#d2dce5" stroke="#236092" stroke-miterlimit="1" stroke-width=".5"/>
+          <text transform="translate(318.789 281.187)" fill="#231f20" font-size="12"><tspan x="0" y="0">Opth Image SOP Instance (structural)</tspan></text>
+          <text transform="translate(325.687 309.231)" fill="#231f20" font-size="10"><tspan x="0" y="0">Frame Location Referenced Image</tspan></text>
+          <text transform="translate(506.086 309.231)" fill="#231f20" font-size="10"><tspan x="0" y="0">Derivation Image</tspan></text>
+          <rect x="158.02" y="148.915" width="278.706" height="58.5" fill="#9ab6d3" stroke="#236092" stroke-miterlimit="1"/>
+          <text transform="translate(163.393 162.505)" fill="#231f20" font-size="12"><tspan x="0" y="0">Opth OCT B-Scan Volume Analysis SOP Instance</tspan></text>
+          <g>
+            <rect x="167.187" y="178.791" width="163.865" height="17.151" fill="#d2dce5" stroke="#236092" stroke-miterlimit="1" stroke-width=".5"/>
+            <text transform="translate(171.856 190.549)" fill="#231f20" font-size="10"><tspan x="0" y="0">Frame Location Referenced Image</tspan></text>
+          </g>
+          <g>
+            <rect x="341.324" y="178.791" width="90" height="17.151" fill="#d2dce5" stroke="#236092" stroke-miterlimit="1" stroke-width=".5"/>
+            <text transform="translate(348.527 190.549)" fill="#231f20" font-size="10"><tspan x="0" y="0">Derivation Image</tspan></text>
+          </g>
+          <g>
+            <rect x="472.726" y="148.915" width="281.185" height="58.5" fill="#9ab6d3" stroke="#236092" stroke-miterlimit="1"/>
+            <rect x="568.319" y="178.791" width="90" height="17.151" fill="#d2dce5" stroke="#236092" stroke-miterlimit="1" stroke-width=".5"/>
+            <text transform="translate(477.688 162.505)" fill="#231f20" font-size="12"><tspan x="0" y="0">(Height Map, Surface) Segmentation SOP Instance</tspan></text>
+            <text transform="translate(575.523 190.549)" fill="#231f20" font-size="10"><tspan x="0" y="0">Derivation Image</tspan></text>
+          </g>
+          <g>
+            <line x1="613.319" y1="76.863" x2="613.319" y2="139.571" fill="none" stroke="#236092" stroke-miterlimit="1"/>
+            <polygon points="610.413 137.589 613.319 148.43 616.224 137.589 610.413 137.589" fill="#236092"/>
+          </g>
+          <g>
+            <line x1="322.819" y1="76.863" x2="322.819" y2="139.571" fill="none" stroke="#236092" stroke-miterlimit="1"/>
+            <polygon points="319.913 137.589 322.819 148.43 325.724 137.589 319.913 137.589" fill="#236092"/>
+          </g>
+          <g>
+            <line x1="454.819" y1="76.863" x2="454.819" y2="258.394" fill="none" stroke="#236092" stroke-miterlimit="1"/>
+            <polygon points="451.913 256.412 454.819 267.253 457.724 256.412 451.913 256.412" fill="#236092"/>
+          </g>
+          <g>
+            <polyline points="613.082 195.943 613.082 231.568 519.819 231.566 519.819 258.394" fill="none" stroke="#236092" stroke-miterlimit="1"/>
+            <polygon points="516.913 256.412 519.819 267.253 522.724 256.412 516.913 256.412" fill="#236092"/>
+          </g>
+          <g>
+            <line x1="389.917" y1="195.943" x2="389.917" y2="258.394" fill="none" stroke="#236092" stroke-miterlimit="1"/>
+            <polygon points="387.011 256.412 389.917 267.253 392.822 256.412 387.011 256.412" fill="#236092"/>
+          </g>
+          <g>
+            <line x1="144.886" y1="76.863" x2="144.886" y2="367.217" fill="none" stroke="#236092" stroke-miterlimit="1"/>
+            <polygon points="141.981 365.236 144.886 376.077 147.791 365.236 141.981 365.236" fill="#236092"/>
+          </g>
+          <g>
+            <line x1="243.105" y1="195.943" x2="243.105" y2="365.393" fill="none" stroke="#236092" stroke-miterlimit="1"/>
+            <polygon points="240.2 363.412 243.105 374.252 246.01 363.412 240.2 363.412" fill="#236092"/>
+          </g>
+          <g>
+            <polyline points="402.828 314.766 402.828 350.392 341.552 350.389 341.552 367.217" fill="none" stroke="#236092" stroke-miterlimit="1"/>
+            <polygon points="338.646 365.236 341.552 376.077 344.457 365.236 338.646 365.236" fill="#236092"/>
+          </g>
+          <g>
+            <line x1="543.882" y1="314.53" x2="543.882" y2="367.238" fill="none" stroke="#236092" stroke-miterlimit="1"/>
+            <polygon points="540.977 365.256 543.882 376.097 546.788 365.256 540.977 365.256" fill="#236092"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 792 237" enable-background="new 0 0 792 237" xml:space="preserve">
+
+<defs>
+	<style type="text/css">
+	text {
+	  font-family: Helvetica, Verdana, ArialUnicodeMS, san-serif
+	}
+	</style>
+</defs>
+
+<g>
+   <desc>
+	PS 3.17 : Explanatory Information
+   </desc>
+</g>
+
+ <g>
+    <g id="Layer_1">
+      <g>
+        <rect x="1" y="1" width="790" height="235" fill="#f3edd6"/>
+        <g>
+          <g>
+            <rect x="324.739" y="82.064" width="54.122" height="54.126" fill="#d5e2f1" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+            <polygon points="324.739 136.191 312.333 125.368 312.333 71.244 324.739 82.064 324.739 136.191" fill="#004073" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+            <polygon points="312.616 71.191 366.738 71.191 378.861 82.064 324.739 82.064 312.616 71.191" fill="#9cbede" stroke="#231f20" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+          </g>
+          <g>
+            <path d="M414.212,178.505h-96.975v32.182h104.665v-23.179l-7.69-9.002" fill="#fff" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".72"/>
+            <text transform="translate(322.677 189.143)" fill="#010101" font-size="9"><tspan x="0" y="0">Prepare Volume Data </tspan><tspan x="0" y="10.8">from Input Instances</tspan></text>
+          </g>
+          <rect x="16.671" y="20.313" width="376.81" height="13.316" fill="#b1daae"/>
+          <rect x="401.82" y="20.313" width="169.354" height="13.316" fill="#cbd0e0"/>
+          <rect x="653.924" y="20.313" width="102.794" height="13.316" fill="#cbd0e0"/>
+          <rect x="579.03" y="20.313" width="71.566" height="13.316" fill="#b1daae"/>
+          <g>
+            <rect x="348.712" y="106.037" width="54.122" height="54.126" fill="#d5e2f1" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+            <polygon points="348.712 160.163 336.305 149.34 336.305 95.216 348.712 106.037 348.712 160.163" fill="#004073" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+            <polygon points="336.588 95.163 390.71 95.163 402.833 106.037 348.712 106.037 336.588 95.163" fill="#9cbede" stroke="#231f20" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+          </g>
+          <text transform="translate(353.156 125.623)" fill="#231f20" font-size="9"><tspan x="0" y="0">Volumetric</tspan><tspan x="6.999" y="8.133">Source</tspan><tspan x="-1.254" y="16.267">Information</tspan></text>
+          <g>
+            <circle cx="486.496" cy="130.663" r="27.5" fill="#b2b9d1" stroke="#231f20"/>
+            <text transform="translate(471.746 129.102)" fill="#231f20" font-size="9"><tspan x="0" y="0">Display</tspan><tspan x="-4.251" y="8.133">Algorithm</tspan></text>
+          </g>
+          <g>
+            <rect x="584.813" y="118.663" width="60" height="24" rx="4" ry="4" fill="#9dd29c" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".694"/>
+            <text transform="translate(589.546 129.102)" fill="#231f20" font-size="9"><tspan x="0" y="0">Presentation</tspan><tspan x=".761" y="8.133">(Initial View)</tspan></text>
+          </g>
+          <g>
+            <rect x="675.321" y="118.663" width="60" height="24" rx="4" ry="4" fill="#b2b9d1" stroke="#231f20"/>
+            <text transform="translate(681.81 133.169)" fill="#231f20" font-size="9"><tspan x="0" y="0">Media Type</tspan></text>
+          </g>
+          <g>
+            <line x1="204.389" y1="55.844" x2="204.389" y2="67.768" fill="none" stroke="#231f20" stroke-linecap="round" stroke-miterlimit="1"/>
+            <polygon points="201.483 65.787 204.389 76.627 207.294 65.787 201.483 65.787" fill="#231f20"/>
+          </g>
+          <g>
+            <line x1="237.843" y1="143.185" x2="325.308" y2="143.185" fill="none" stroke="#231f20" stroke-linecap="round" stroke-miterlimit="1"/>
+            <polygon points="323.327 146.09 334.168 143.185 323.327 140.28 323.327 146.09" fill="#231f20"/>
+          </g>
+          <g>
+            <rect x="175.029" y="102.991" width="44.999" height="45.001" fill="#9dd29c" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+            <rect x="180.7" y="108.662" width="44.999" height="45.001" fill="#9dd29c" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+            <rect x="186.699" y="114.664" width="45" height="45" fill="#9dd29c" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+            <rect x="192.699" y="120.663" width="45" height="45" fill="#9dd29c" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+            <text transform="translate(198.686 145.67)" fill="#231f20" font-size="9"><tspan x="0" y="0">Phase n</tspan></text>
+            <rect x="106.347" y="69.264" width="44.999" height="45.001" fill="#9dd29c" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+            <rect x="112.018" y="74.935" width="44.999" height="45.001" fill="#9dd29c" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+            <rect x="118.017" y="80.936" width="45" height="45" fill="#9dd29c" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+            <rect x="124.017" y="86.936" width="45" height="45" fill="#9dd29c" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".75"/>
+            <text transform="translate(130.005 111.942)" fill="#231f20" font-size="9"><tspan x="0" y="0">Phase 1</tspan></text>
+          </g>
+          <g>
+            <line x1="169.161" y1="96.958" x2="302.127" y2="96.958" fill="none" stroke="#231f20" stroke-linecap="round" stroke-miterlimit="1"/>
+            <polygon points="300.146 99.863 310.986 96.958 300.146 94.052 300.146 99.863" fill="#231f20"/>
+          </g>
+          <g>
+            <line x1="402.881" y1="130.685" x2="448.804" y2="130.685" fill="none" stroke="#231f20" stroke-linecap="round" stroke-miterlimit="1"/>
+            <polygon points="446.823 133.59 457.664 130.685 446.823 127.78 446.823 133.59" fill="#231f20"/>
+          </g>
+          <g>
+            <line x1="515.981" y1="130.685" x2="574.779" y2="130.685" fill="none" stroke="#231f20" stroke-linecap="round" stroke-miterlimit="1"/>
+            <polygon points="572.798 133.59 583.639 130.685 572.798 127.78 572.798 133.59" fill="#231f20"/>
+          </g>
+          <g>
+            <line x1="646.965" y1="130.685" x2="664.309" y2="130.685" fill="none" stroke="#231f20" stroke-linecap="round" stroke-miterlimit="1"/>
+            <polygon points="662.327 133.59 673.168 130.685 662.327 127.78 662.327 133.59" fill="#231f20"/>
+          </g>
+          <g>
+            <line x1="486.496" y1="55.844" x2="486.496" y2="77.057" fill="none" stroke="#231f20" stroke-linecap="round" stroke-miterlimit="1"/>
+            <polygon points="483.591 75.075 486.496 85.916 489.402 75.075 483.591 75.075" fill="#231f20"/>
+          </g>
+          <g>
+            <line x1="614.813" y1="55.844" x2="614.813" y2="97.254" fill="none" stroke="#231f20" stroke-linecap="round" stroke-miterlimit="1"/>
+            <polygon points="611.907 95.272 614.813 106.113 617.718 95.272 611.907 95.272" fill="#231f20"/>
+          </g>
+          <g>
+            <line x1="705.321" y1="55.844" x2="705.321" y2="97.254" fill="none" stroke="#231f20" stroke-linecap="round" stroke-miterlimit="1"/>
+            <polygon points="702.415 95.272 705.321 106.113 708.226 95.272 702.415 95.272" fill="#231f20"/>
+          </g>
+          <path d="M566.496,38.04c0,5.412-7.227,9.57-27.503,9.57-5.42,0-11.039-.264-16.463-.594-5.417-.197-10.837-.461-16.058-.461-6.425,0-20.233.66-20.233,5.346h-.042c0-4.685-12.85-5.346-19.876-5.346-5.621,0-11.242.264-16.863.527-5.621.264-11.242.527-16.662.527-18.469,0-26.299-4.025-26.299-9.637" fill="none" stroke="#231f20"/>
+          <path d="M647.313,38.04c0,5.412-2.936,9.57-11.173,9.57-2.202,0-4.485-.264-6.688-.594-2.201-.197-4.402-.461-6.524-.461-2.61,0-8.22.66-8.22,5.346h-.017c0-4.685-5.22-5.346-8.075-5.346-2.283,0-4.567.264-6.85.527-2.283.264-4.567.527-6.769.527-7.503,0-10.684-4.025-10.684-9.637" fill="none" stroke="#231f20"/>
+          <path d="M753.821,38.04c0,5.412-4.381,9.57-16.673,9.57-3.286,0-6.693-.264-9.981-.594-3.284-.197-6.57-.461-9.735-.461-3.895,0-12.266.66-12.266,5.346h-.026c0-4.685-7.79-5.346-12.05-5.346-3.408,0-6.815.264-10.223.527-3.408.264-6.815.527-10.101.527-11.197,0-15.944-4.025-15.944-9.637" fill="none" stroke="#231f20"/>
+          <path d="M390.076,36.705c0,6.46-16.713,11.423-63.6,11.423-12.534,0-25.529-.315-38.071-.709-12.526-.235-25.06-.55-37.135-.55-14.858,0-46.79.788-46.79,6.38h-.098c0-5.592-29.715-6.38-45.964-6.38-12.998,0-25.996.315-38.995.629-12.998.315-25.996.629-38.531.629-42.709,0-60.817-4.805-60.817-11.502" fill="none" stroke="#231f20"/>
+          <g>
+            <g>
+              <path d="M220.416,178.505h-104.475v32.182h112.165v-23.179l-7.69-9.002" fill="#fff" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".72"/>
+              <text transform="translate(121.484 189.143)" fill="#010101" font-size="9"><tspan x="0" y="0">Specify Input Instances </tspan><tspan x="0" y="10.8">or Frames</tspan></text>
+            </g>
+            <path d="M220.416,178.505v9h7.69" fill="none" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".72"/>
+          </g>
+          <path d="M414.212,178.505v9h7.69" fill="none" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".72"/>
+          <g>
+            <g>
+              <path d="M608.953,178.505h-125.975v38.182h133.665v-29.179l-7.69-9.002" fill="#fff" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".72"/>
+              <text transform="translate(488.936 189.142)" fill="#010101" font-size="9"><tspan x="0" y="0">Apply display algorithm and </tspan><tspan x="0" y="10.8">presentation parameters to the </tspan><tspan x="0" y="21.6">Volume Data to create a view</tspan></text>
+            </g>
+            <path d="M608.953,178.505v9h7.69" fill="none" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".72"/>
+          </g>
+          <g>
+            <path d="M767.623,178.505h-113.699v38.182h121.405v-29.251l-7.706-8.931" fill="#fff" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".805"/>
+            <text transform="translate(660.636 189.142)" fill="#010101" font-size="9"><tspan x="0" y="0">Return 2D representation </tspan><tspan x="0" y="10.8">of the view as requested </tspan><tspan x="0" y="21.6">media type</tspan></text>
+            <path d="M767.639,178.505v9h7.69" fill="none" stroke="#010101" stroke-linecap="round" stroke-linejoin="round" stroke-width=".72"/>
+          </g>
+          <text transform="translate(19.821 30.185) scale(1.119 1)" fill="#231f20" font-size="11"><tspan x="0" y="0">.../rendered3D?FrameContentSequence.TemporalPositionIndex=2-5&amp;renderingmethod=maximum_ip&amp;orientation=h Accept: video/mp4</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

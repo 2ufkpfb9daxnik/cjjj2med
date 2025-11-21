@@ -67,9 +67,6 @@ docs/_build/
 # db files
 *.db
 
-# figures
-*figures/
-
 # OS files
 .DS_Store
 Thumbs.db
